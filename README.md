@@ -1,1 +1,1 @@
-# Malaria-detection-CNN-and-Transfer-learning
+# Malaria-Detection
